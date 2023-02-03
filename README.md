@@ -32,33 +32,32 @@ plain text.
 > #### Ans:
 
 ### Functional Requirements:
-1. The LIS system will enable the members to borrow a book or return it with ease while seating at his desk/chamber.
-2. The LIS System also enables a member to extend the due date of his borrowing. They can re-issue the book if no other booking for that particular book has been made.
-3. The System eases the work of library staff by handling the day-to-day book transactions in an optimized manner.
-4. The librarian would have the administrative privileges and complete control over the system. 
-5. He/She can enter a new record into the system when a new book has been purchased and remove a record in case any book is taken off the shelf.
-6. The User would have to register and make his account in the LIS system to use the members only features of the syste.
-7. The User would have to login to issue any book, or to request or give suggestions about adding new books to the shelf.
-8. The System would have a filter and search facilities through which they can filter out the books by the book name, author name, publising date, genre, and number of pages etc.
-9. The system would also show similar books and the count of the available books in the database.
-10. The User would get a profile page where he/she would be able to see his previous issue and return records. 
-11. He/she would also get a recommendation of few books that he/she might like based on the previous books he/she would have searched for.
-12. Non LIS member can preview the shelf and can even browse/search books online.
-13. If user would also get a reminder email and sms 2 days before the due date of the issued book.
+1. The Library Information System (LIS) offers members a simple and efficient method for borrowing and returning books from the comfort of their own desk or chamber.
+2. Members have the ability to extend the due date of their borrowed books and re-issue them if no other reservations have been made for the same book.
+3. The LIS System streamlines the work of library staff by efficiently managing day-to-day book transactions.
+4. The system gives librarians administrative privileges and complete control over its functions.
+5. The librarian can add new records to the system when a new book is purchased and remove records if a book is removed from the shelf.
+6. Users must create an account in the LIS system to access member-only features.
+7. To borrow a book or make suggestions about adding new books to the collection, users must log in to the system.
+8. The system provides advanced filtering and search capabilities, allowing users to search for books by various criteria such as book name, author name, publishing date, genre, and number of pages.
+9. The system also displays similar books and the availability of books in the database.
+10. Each user has a personal profile page where they can view their previous borrowing and return records.
+11. Based on their previous book searches, the system provides personalized book recommendations for users.
+12. Non-members can preview the library's collection and search for books online.
+13. Users will receive a reminder via email and SMS two days prior to the due date of a borrowed book.
 
 ### Non Functional Requirements:
-1. The website would be available inside the Institute LAN only.
-2. The website should be made with the latest HTML5 technology
-3. The users data should be properly encrypted and proper encrption mechanisms should be used for the confidential information
-4. The system should be scalable and shoud be working in a auto-scale manner so that it is always functional in case of sudden increase in load in the website
-5. The system should be portable i.e. it shoule be dynamic and responsive to any devices like mobile webpage, desktop webpage, etc.
-6. The system should have a beautiful UI and it should be fast and the interface should be in a way that the user get a satisfactory user experience
-7. The database should be well managed so that the system can be fast and function without any interruptions
-8. The system should be regularly maintained so and should be improved with the technologcial advancements.
+1. This website will be accessible only within the Institute LAN.
+2. This website will be built using the latest HTML5 technology for optimal performance.
+3. The user data will be securely encrypted, and appropriate encryption mechanisms will be used for confidential information.
+4. This system will be scalable, with the ability to auto-scale to handle sudden increases in website traffic.
+5. This system will be designed for portability, with a dynamic and responsive interface that can be accessed on various devices including mobile and desktop.
+6. The user interface will be visually appealing, fast, and provide a satisfying user experience.
+7. The database will be optimized for efficient management and smooth operation of the system.
+8. Regular maintenance and updates will be performed to ensure that the system remains functional and up-to-date with the latest technological advancements.
 # 
 
 > #### Q.2: Identify scope, features and non-functional aspects of the following problem.
-
 Approximately 5% of the world population (or a staggering 466 million people) suffers from
 disabling hearing loss. We set out to create an impactful solution for this community that
 addresses some of their everyday needs. Our mobile application uses artificial intelligence to
@@ -67,3 +66,20 @@ where immediate alerts and continual logging are critical for the user. This app
 for Android with low-latency so that it works in real-time for use.
 
 > #### Ans:
+
+#### Scope:
+1. The target audience of the mobile application is approximately 500 million individuals who suffer from hearing loss.
+2. The system is not only intended for individuals with hearing loss, but also for users who would like to assist them, and these individuals are included in the user base.
+
+#### Features:
+1. The app features the ability to recognize sound events such as car horns and babies.
+2. It provides immediate alerts to the user during these critical events.
+3. The app is optimized to perform in real-time.
+
+#### Non Functional Requirements:
+1. The system is designed to be scalable and optimized for real-time performance on the Android platform.
+2. Artificial Intelligence is utilized for optimal recognition of critical sounds for the user.
+3. The system is a mobile application with low latency and optimized performance, achieved through the use of a large, non-hierarchical database.
+4. User data is securely encrypted with appropriate mechanisms to protect confidential information.
+5. The app is designed to provide a fast, effective and secure experience for the user.
+#
